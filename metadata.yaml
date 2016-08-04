@@ -1,0 +1,44 @@
+_repo: A-Young-Girl-s-Diary_752
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+  translators:
+  - agent_name: Paul, Cedar
+    alias: Davenport, Gertrude Mary
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '390'
+    url: http://www.gutenberg.org/2009/agents/390
+    wikipedia: http://en.wikipedia.org/wiki/Cedar_Paul
+  - agent_name: Paul, Eden
+    aliases:
+    - Paul, Maurice Eden
+    - Paul, M. Eden (Maurice Eden)
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+description: 'Translation of: Tagebuch eines halbwüchsigen Mädchens'
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adolescence'
+- !lcsh 'Teenage girls'
+- !lcc 'HQ'
+- !lcsh 'Teenage girls -- Austria -- Vienna -- Diaries'
+- GITenberg
+title: A Young Girl's Diary
+url: http://www.gutenberg.org/ebooks/752
