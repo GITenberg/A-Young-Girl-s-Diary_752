@@ -1,5 +1,5 @@
 _repo: A-Young-Girl-s-Diary_752
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Freud, Sigmund
@@ -25,7 +25,12 @@ contributor:
     gutenberg_agent_id: '389'
     url: http://www.gutenberg.org/2009/agents/389
     wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: 'Translation of: Tagebuch eines halbwüchsigen Mädchens'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/752#A-Young-Girl-s-Diary
 gutenberg_issued: '2006-01-21'
 gutenberg_type: Text
 identifiers:
